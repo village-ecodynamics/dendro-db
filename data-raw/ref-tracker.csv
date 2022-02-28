@@ -11,12 +11,12 @@ BANNISTER AND ROBINSON 1971,yes,Bannister1971-UW
 BILLMAN AND ROBINSON 2003,no,
 Blair 1997,no,
 CHENAULT ET AL. 2004,no,
-CHUIPKA AND POTTER 2007,uncertain,
+CHUIPKA AND POTTER 2007,no,
 Dean 1975,yes,Dean1975-W
-"Dean 2008, Personal Communication",no,
-"Dean 2012, Personal Communication",no,
-DEAN PERSONAL COMMUNICATION 2008,no,
-Dean Personal Communication 2012,no,
+"Dean 2008, Personal Communication",yes,Dean2008
+"Dean 2012, Personal Communication",yes,Dean2012
+DEAN PERSONAL COMMUNICATION 2008,yes,Dean2008
+Dean Personal Communication 2012,yes,Dean2012
 "Diederichs 2002:10.13, App. L (Str. 5)",no,
 "DITTERT, EDDY AND DICKEY N.D.",no,
 Duff,no,
@@ -27,17 +27,17 @@ Honeycutt and Fetterman 1994:13.31,yes,Honeycutt1994
 Kintigh personal communication 2008,no,
 KK spreadsheet,no,
 Kleidon and Till 2003:55; Dean 2003:App. F,no - need to separate,
-"Kohler 2012, Personal Communication",no,
+"Kohler 2012, Personal Communication",yes,Kohler2012
 MABRY 2000,no,
 MARTIN PERSONAL COMMUNICATION,no,
 MORRIS 1991,no,
 Murrell & Vierra 2014,no,
 NA,no,
-Nash,no,
-Nash VEP II spreadsheet 2012,no,
-Nash VEP II spreadsheet 2013,no,
+Nash,yes,Nash2013
+Nash VEP II spreadsheet 2012,yes,Nash2012
+Nash VEP II spreadsheet 2013,yes,Nash2013
 NICKENS 1975,yes,Nickens1975
-"Ortman 2008, Personal Communication",no,
+"Ortman 2008, Personal Communication",yes,Ortman2008
 Plog's Chaco Web Site,yes,Plog2006
 Robinson and Harrill 1974,yes,Robinson1974-V
 ROBINSON AND WARREN 1971,yes,Robinson1971-DB
