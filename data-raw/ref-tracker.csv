@@ -1,49 +1,52 @@
-﻿Refs,Got it?,bibdex
-BANNISTER AND ROBINSON 1971,yes,Bannister1971-UW
-"Bannister, Dean and Gell 1966",yes,Bannister1966-E
-"Bannister, Dean and Robinson 1968",yes,Bannister1968-CD
-"Bannister, Dean and Robinson 1969",yes,Bannister1969-SW
-"BANNISTER, GELL, AND HANNAH 1966",yes,Bannister1966-NQ
-"BANNISTER, HANNAH AND ROBINSON 1966",yes,Bannister1966-K
-"BANNISTER, HANNAH AND ROBINSON 1970",yes,Bannister1970-MNSZ
-"Bannister, Robinson and Warren 1967",yes,Bannister1967-J
-"BANNISTER, ROBINSON AND WARREN 1970",yes,Bannister1970-A
-BILLMAN AND ROBINSON 2003,no,
-Blair 1997,no,
-CHENAULT ET AL. 2004,no,
-CHUIPKA AND POTTER 2007,no,
-Dean 1975,yes,Dean1975-W
-"Dean 2008, Personal Communication",yes,Dean2008
-"Dean 2012, Personal Communication",yes,Dean2012
-DEAN PERSONAL COMMUNICATION 2008,yes,Dean2008
-Dean Personal Communication 2012,yes,Dean2012
-"Diederichs 2002:10.13, App. L (Str. 5)",no,
-"DITTERT, EDDY AND DICKEY N.D.",no,
-Duff,no,
-ERRICKSON 1995,yes,Errickson1995
-FULLER 1988,no,
-GOODING 1980,no,
-Honeycutt and Fetterman 1994:13.31,yes,Honeycutt1994
-Kintigh personal communication 2008,no,
-KK spreadsheet,no,
-Kleidon and Till 2003:55; Dean 2003:App. F,no - need to separate,
-"Kohler 2012, Personal Communication",yes,Kohler2012
-MABRY 2000,no,
-MARTIN PERSONAL COMMUNICATION,no,
-MORRIS 1991,no,
-Murrell & Vierra 2014,no,
-NA,no,
-Nash,yes,Nash2013
-Nash VEP II spreadsheet 2012,yes,Nash2012
-Nash VEP II spreadsheet 2013,yes,Nash2013
-NICKENS 1975,yes,Nickens1975
-"Ortman 2008, Personal Communication",yes,Ortman2008
-Plog's Chaco Web Site,yes,Plog2006
-Robinson and Harrill 1974,yes,Robinson1974-V
-ROBINSON AND WARREN 1971,yes,Robinson1971-DB
-"ROBINSON, HARRIL AND WARREN 1975",yes,Robinson1975-HI
-"ROBINSON, HARRILL AND WARREN 1974",yes,Robinson1974-B
-Safi spreadsheet,no,
-"Smiley, Nichols and Andrews 1983",yes,Smiley1983
-"Stirniman 2002:7.46, App. L",no,
-TOWNER 2008,yes,Towner2008
+﻿Refs,Got it?,bibdex,notes
+BANNISTER AND ROBINSON 1971,yes,Bannister1971-UW,
+"Bannister, Dean and Gell 1966",yes,Bannister1966-E,
+"Bannister, Dean and Robinson 1968",yes,Bannister1968-CD,
+"Bannister, Dean and Robinson 1969",yes,Bannister1969-SW,
+"BANNISTER, GELL, AND HANNAH 1966",yes,Bannister1966-NQ,
+"BANNISTER, HANNAH AND ROBINSON 1966",yes,Bannister1966-K,
+"BANNISTER, HANNAH AND ROBINSON 1970",yes,Bannister1970-MNSZ,
+"Bannister, Robinson and Warren 1967",yes,Bannister1967-J,
+"BANNISTER, ROBINSON AND WARREN 1970",yes,Bannister1970-A,
+BILLMAN AND ROBINSON 2003,no,,"could be 2005: The Puebloan occupation of the Ute
+Mountain piedmont"
+Blair 1997,no,,only one date
+CHENAULT ET AL. 2004,yes,Chenault2004-etal,
+CHUIPKA AND POTTER 2007,no,,"could be EARLY PUEBLO COMMUNITIES AND CULTURAL DIVERSITY IN THE DURANGO AREA
+PRELIMINARY RESULTS FROM THE ANIMAS–LA PLATA PROJECT
+JAMES M. POTTER &JASON CHUIPKA"
+Dean 1975,yes,Dean1975-W,
+"Dean 2008, Personal Communication",yes,Dean2008,
+"Dean 2012, Personal Communication",yes,Dean2012,
+DEAN PERSONAL COMMUNICATION 2008,yes,Dean2008,
+Dean Personal Communication 2012,yes,Dean2012,
+"Diederichs 2002:10.13, App. L (Str. 5)",no,,no idea
+"DITTERT, EDDY AND DICKEY N.D.",no,,no idea- for sambrito village
+Duff,no,,no idea
+ERRICKSON 1995,yes,Errickson1995,
+FULLER 1988,yes,Fuller1988,
+GOODING 1980,yes,Gooding1980,
+Honeycutt and Fetterman 1994:13.31,yes,Honeycutt1994,
+Kintigh personal communication 2008,no,,
+KK spreadsheet,no,,
+Kleidon and Till 2003:55; Dean 2003:App. F,no - need to separate,,
+"Kohler 2012, Personal Communication",yes,Kohler2012,
+MABRY 2000,yes,Mabry2000,
+MARTIN PERSONAL COMMUNICATION,no,,
+MORRIS 1991,no,,
+Murrell & Vierra 2014,yes,MurrellVierra2014,
+NA,no,,
+Nash,yes,Nash2013,
+Nash VEP II spreadsheet 2012,yes,Nash2012,
+Nash VEP II spreadsheet 2013,yes,Nash2013,
+NICKENS 1975,yes,Nickens1975,
+"Ortman 2008, Personal Communication",yes,Ortman2008,
+Plog's Chaco Web Site,yes,Plog2006,
+Robinson and Harrill 1974,yes,Robinson1974-V,
+ROBINSON AND WARREN 1971,yes,Robinson1971-DB,
+"ROBINSON, HARRIL AND WARREN 1975",yes,Robinson1975-HI,
+"ROBINSON, HARRILL AND WARREN 1974",yes,Robinson1974-B,
+Safi spreadsheet,no,,
+"Smiley, Nichols and Andrews 1983",yes,Smiley1983,
+"Stirniman 2002:7.46, App. L",no,,
+TOWNER 2008,yes,Towner2008,

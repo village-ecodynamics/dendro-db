@@ -36,4 +36,18 @@ db %>%
     here::here("data-derived/dates_noRefs.csv")
   )
 
-
+norefs <- db %>% 
+  dplyr::right_join(
+    refs %>% 
+      dplyr::filter(
+        `Got it?` == "no"
+      ),
+    by = c("Refs")
+  ) %>% 
+  dplyr::group_by(Refs) %>% 
+  dplyr::summarise(
+    n  = n()
+  ) %>% 
+  readr::write_csv(
+    here::here("data-derived/noRefs_count.csv")
+  )
