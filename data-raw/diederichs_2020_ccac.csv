@@ -1,0 +1,47 @@
+﻿Lab_Number,Site_Number,Provenience,treespeciescode,treespecies,Inside Date,Symbol Inside Date,Outside Date,Symbol Outside Date,C_level
+CCC-3652 ,5MT10647 ,Structure 220 ,JUN,Juniper ,530 ,"""+"" ",607 ,vv ,1
+CCC-3653 ,5MT10647 ,Structure 228 ,JUN,Juniper ,531 ,,601 ,+vv ,1
+CCC-3654 ,5MT10647 ,Structure 220 ,JUN,Juniper ,561 ,,623 ,+vv ,1
+CCC-3656 ,5MT10647 ,Structure 220 ,JUN,Juniper ,543 ,,625 ,+vv ,1
+CCC-3662 ,5MT10647 ,Structure 231 ,JUN,Juniper ,556 ,,623 ,vv ,1
+CCC-3680 ,5MT10709 ,Structure 106 ,JUN,Juniper ,424 ,,548 ,+vv ,1
+CCC-3681 ,5MT10709 ,Structure 106 ,JUN,Juniper ,450 ,,537 ,+vv ,1
+CCC-3682 ,5MT10709 ,Structure 106 ,JUN,Juniper ,459 ,,594 ,vv ,1
+CCC-3683 ,5MT10709 ,Structure 106 ,JUN,Juniper ,452 ,,541 ,+v ,1
+CCC-3684 ,5MT10709 ,Structure 106 ,JUN,Juniper ,442 ,,521 ,+vv ,2
+CCC-3686 ,5MT10687 ,Structure 113 ,JUN,Juniper ,466 ,,557 ,++vv ,1
+CCC-3687 ,5MT10687 ,Structure 113 ,JUN,Juniper ,490 ,,537 ,+v ,1
+CCC-3688 ,5MT10631 ,Structure 101 ,JUN,Juniper ,488 ,,587 ,vv ,1
+CCC-3689 ,5MT10631 ,Structure 101 ,JUN,Juniper ,658 ,,724 ,B ,2
+CCC-3690 ,5MT10631 ,Structure 102 ,JUN,Juniper ,603 ,±p ,729 ,+vv ,1
+CCC-3691 ,5MT10631 ,Structure 101 ,JUN,Juniper ,564 ,±p ,675 ,+v ,3
+CCC-3692 ,5MT10631 ,Structure 101 ,JUN,Juniper ,615 ,±p ,761 ,++B ,1
+CCC-3693 ,5MT10631 ,Structure 101 ,JUN,Juniper ,460 ,,575 ,+B ,2
+CCC-3694 ,5MT10631 ,Structure 102 ,JUN,Juniper ,456 ,± ,600 ,vv ,3
+CCC-3696 ,5MT10631 ,Structure 101 ,JUN,Juniper ,502 ,± ,663 ,r ,3
+CCC-3698 ,5MT10631 ,Structure 101 ,JUN,Juniper ,485 ,± ,575 ,+vv ,1
+CCC-3699 ,5MT10631 ,Structure 102 ,JUN,Juniper ,696 ,,757 ,+vv ,1
+CCC-3700 ,5MT10631 ,Structure 102 ,JUN,Juniper ,445 ,,549 ,+vv ,3
+CCC-3704 ,5MT10631 ,Structure 102 ,JUN,Juniper ,335 ,± ,436 ,vv ,3
+CCC-3706 ,5MT10711 ,Structure 101 ,JUN,Juniper ,347 ,± ,510 ,+L ,1
+CCC-3707 ,5MT10711 ,Structure 101 ,JUN,Juniper ,387 ,± ,494 ,+L ,1
+CCC-3709 ,5MT10711 ,Structure 101 ,JUN,Juniper ,691 ,± ,788 ,+L ,1
+CCC-3716 ,5MT10711 ,Structure 101 ,JUN,Juniper ,348 ,,418 ,LB ,1
+CCC-3719 ,5MT10711 ,Structure 101 ,JUN,Juniper ,627 ,p ,667 ,LB ,1
+CCC-3685 ,5MT10687 ,Structure 113 ,PNN,Pinyon pine ,494 ,,570 ,+vv ,1
+CCC-3695 ,5MT10631 ,Structure 102 ,PNN,Pinyon pine ,513 ,,566 ,vv ,1
+CCC-3697 ,5MT10631 ,Structure 102 ,PNN,Pinyon pine ,572 ,,625 ,+B ,1
+CCC-3701 ,5MT10631 ,Structure 102 ,PNN,Pinyon pine ,503 ,,566 ,+vv ,3
+CCC-3702 ,5MT10631 ,Structure 102 ,PNN,Pinyon pine ,539 ,p ,620 ,+vv ,3
+CCC-3703 ,5MT10631 ,Structure 101 ,PNN,Pinyon pine ,538 ,p ,607 ,+vv ,1
+CCC-3710 ,5MT10711 ,Structure 101 ,PNN,Pinyon pine ,708 ,p ,759 ,vv ,3
+CCC-3711 ,5MT10711 ,Structure 101 ,PNN,Pinyon pine ,688 ,±p ,763 ,LB ,1
+CCC-3712 ,5MT10711 ,Structure 103 ,PNN,Pinyon pine ,488 ,± ,580 ,+vv ,3
+CCC-3713 ,5MT10711 ,Structure 101 ,PNN,Pinyon pine ,686 ,,722 ,+LB ,1
+CCC-3715 ,5MT10711 ,Structure 101 ,PNN,Pinyon pine ,572 ,,610 ,+LB ,3
+CCC-3663 ,5MT10647 ,Structure 102 ,PP,Ponderosa pine ,580 ,,621 ,+vv ,1
+CCC-3705 ,5MT10711 ,Structure 101 ,PP,Ponderosa pine ,476 ,±p ,561 ,++vv ,3
+CCC-3708 ,5MT10711 ,Structure 101 ,PP,Ponderosa pine ,475 ,,541 ,+vv ,3
+CCC-3714 ,5MT10711 ,Structure 101 ,PP,Ponderosa pine ,625 ,,693 ,vv ,1
+CCC-3717 ,5MT10711 ,Structure 101 ,PP,Ponderosa pine ,605 ,,686 ,vv ,1
+CCC-3718 ,5MT10711 ,Structure 101 ,PP,Ponderosa pine ,550 ,p ,623 ,++vv ,3
