@@ -77,8 +77,12 @@ dendro <- readr::read_csv(
     Type, # Type of cutting date, non-, near-, or cutting
     `Year AD` , # Year of cutting date
     `Inside Date`, # inside date (useful later to identify tree age at cutting, which may reveal deforestation info)
-    `Tree Age`#,
+    `Tree Age`,
+    Refs
     # geometry
+  ) %>% 
+  dplyr::mutate(
+    Source = "Bocinsky 2016"
   )
 
 
